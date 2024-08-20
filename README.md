@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hey👋 ![Banner](https://github.com/shreyanshs31/shreyanshs31/blob/main/github%20banner.png)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=👋Nice+to+meet+you;🧑🏻‍💻Web+Developer;📦UI/UX+Designer;📖DataScience+Student)
 <!--
 **shreyanshs31/shreyanshs31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
