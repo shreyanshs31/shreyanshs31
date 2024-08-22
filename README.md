@@ -62,6 +62,36 @@
   </a>
 </p>
 
+### 👋 &nbsp;Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreyansh-shukla-5970b3247/">
+        <img
+            height="25"
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+  </a>
+  <a href="https://x.com/ShreyanshS31">
+        <img
+            height="25"
+            src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+        />
+  </a>
+  <a href="mailto:shreyansh.shukla.3101@gmail.com">
+        <img
+            height="25"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+  </a>
+    <a href="https://github.com/shreyanshs31">
+        <img
+            height="25"
+            src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
+        />
+    </a>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shreyanshs31&color=blue&style=flat&label=Profile+Views&base=1000)
+
 <!--
 **shreyanshs31/shreyanshs31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
