@@ -62,6 +62,11 @@
   </a>
 </p>
 
+<p align="center">
+    <!-- Trophy Stats -->
+    <img src="https://github-profile-trophy.vercel.app/?username=shreyanshs31&theme=tokyonight" alt="GitHub Trophies" />
+</p>
+
 ### 👋 &nbsp;Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/shreyansh-shukla-5970b3247/">
