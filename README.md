@@ -1,11 +1,11 @@
 ## Hey👋 ![Banner](https://github.com/shreyanshs31/shreyanshs31/blob/main/Github%20Banner.png)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=👋Nice+to+meet+you;🧑🏻‍💻Web+Developer;📦UI/UX+Designer;📖DataScience+Student;📷Social+Media+Manager)
 
-💡   Passionate about Developing Realworld projects & Problem Solving.
-🧠   Diving Deeper into the world of DataScience and Webdevelopment.
-🧑‍🏭   Currently I am a Design Team Lead in E-cell SATI and Managing Social media of E-cell SATI.
-🌱   I’m currently learning FullStack development and Data Analytics.
-📄   My [Resume](https://github.com/shreyanshs31/shreyanshs31/blob/main/R%C3%A9sum%C3%A9.pdf) for more details about me. I'm open to feedback and suggestions!
+💡   Passionate about Developing Realworld projects & Problem Solving.\
+🧠   Diving Deeper into the world of DataScience and Webdevelopment.\
+🧑‍🏭   Currently I am a Design Team Lead in E-cell SATI and Managing Social media of E-cell SATI.\
+🌱   I’m currently learning FullStack development and Data Analytics.\
+📄   My [Resume](https://github.com/shreyanshs31/shreyanshs31/blob/main/R%C3%A9sum%C3%A9.pdf) for more details about me. I'm open to feedback and suggestions!\
 
 ### ⚙️  My Tech Stack
 #### Programming Languages
