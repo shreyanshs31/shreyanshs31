@@ -1,9 +1,9 @@
 ## Hey👋 ![Banner](https://github.com/shreyanshs31/shreyanshs31/blob/main/Github%20Banner.png)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=👋Nice+to+meet+you;🧑🏻‍💻Web+Developer;📦UI/UX+Designer;📖DataScience+Student;📷Social+Media+Manager)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=👋Nice+to+meet+you;🧑🏻‍💻Web+Developer;📦UI/UX+Designer;📖Learning+DataScience+Machine+Learning+Artificial+Intelligence;)
 
 💡   Passionate about Developing Realworld projects & Problem Solving.\
-🧠   Diving Deeper into the world of DataScience and Webdevelopment.\
-🧑‍🏭   Currently I am a Design Team Lead in E-cell SATI and Managing Social media of E-cell SATI.\
+🧠   Diving Deeper into the world of DataScience AI/ML and Webdevelopment.\
+🧑‍🏭   Currently I am a Techinical Head in E-cell SATI.\
 🌱   I’m currently learning FullStack development and Data Analytics.\
 📄   My [Resume](https://github.com/shreyanshs31/shreyanshs31/blob/main/R%C3%A9sum%C3%A9.pdf) for more details about me. I'm open to feedback and suggestions!
 
@@ -14,6 +14,7 @@
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Java](https://skillicons.dev/icons?i=java)
+![C++](https://skillicons.dev/icons?i=cpp)
 
 #### Frameworks, Platforms and Libraries
 
@@ -23,6 +24,12 @@
 ![React](https://skillicons.dev/icons?i=react)
 ![Babel](https://skillicons.dev/icons?i=babel)
 ![Vite](https://skillicons.dev/icons?i=vite)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Postman](https://skillicons.dev/icons?i=postman)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![scikit-learn](https://skillicons.dev/icons?i=sklearn)
+
 
 #### Favourite IDEs/Editors
 
@@ -40,12 +47,19 @@
 
 #### Databases
 
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 
+#### Terminal
+![Bash](https://skillicons.dev/icons?i=bash)
+
 #### Video Editing
 ![Adobe Premiere Pro](https://skillicons.dev/icons?i=pr)
+
+#### OS
+![ubuntu](https://skillicons.dev/icons?i=ubuntu)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
