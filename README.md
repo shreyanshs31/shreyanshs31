@@ -44,6 +44,7 @@
 #### Hosting
 
 ![Netlify](https://skillicons.dev/icons?i=netlify)
+![Vercel](https://skillicons.dev/icons?i=vercel)
 
 #### Databases
 
