@@ -1,4 +1,5 @@
-## Hey👋 ![Banner](https://github.com/shreyanshs31/shreyanshs31/blob/main/Github%20Banner.png)
+## Hey👋 ![Banner](https://github.com/shreyanshs31/shreyanshs31/blob/main/Screenshot%20From%202025-06-22%2020-35-50.png)
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=👋Nice+to+meet+you;🧑🏻‍💻Web+Developer;📦UI/UX+Designer;📖Learning+DataScience+Machine+Learning+Artificial+Intelligence;)
 
 💡   Passionate about Developing Realworld projects & Problem Solving.\
