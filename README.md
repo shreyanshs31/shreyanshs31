@@ -6,7 +6,7 @@
 🧠   Diving Deeper into the world of DataScience AI/ML and Webdevelopment.\
 🧑‍🏭   Currently I am a Techinical Head in E-cell SATI.\
 🌱   I’m currently learning FullStack development and Data Analytics.\
-📄   My [Resume](https://github.com/shreyanshs31/shreyanshs31/blob/main/R%C3%A9sum%C3%A9.pdf) for more details about me. I'm open to feedback and suggestions!
+📄   My [Resume](https://github.com/shreyanshs31/shreyanshs31/blob/main/resume1jun26.pdf) for more details about me. I'm open to feedback and suggestions!
 
 ### ⚙️  My Tech Stack
 #### Programming Languages
